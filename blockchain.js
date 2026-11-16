@@ -1,4 +1,3 @@
-
 const Bloco = require('./bloco');
 
 class Blockchain {
